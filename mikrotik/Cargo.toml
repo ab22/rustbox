@@ -1,0 +1,7 @@
+[package]
+name = "mikrotik"
+version = "0.1.0"
+authors = ["Abelardo E. Mendoza <abelardo22.9@gmail.com>"]
+
+[dependencies]
+rust-crypto = "0.2.36"
